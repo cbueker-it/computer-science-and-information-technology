@@ -1,8 +1,6 @@
-**Computer Science and Information Technology**
+**Computer Science and Information Technology**: Independent Technical Study
 
-Independent Technical Study
-
-This repository documents applied technical learning through notes, structured troubleshooting models, selected readings, lab work, and practical concept development.
+I built this repository to organize my independent technical study across core IT concepts, systems administration, troubleshooting, and applied technical reading. This shows applied learning through notes, structured troubleshooting models, selected readings, lab work, and practical concept development.
 
 Focused Areas
 
