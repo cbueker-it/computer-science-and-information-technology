@@ -6,9 +6,12 @@ Focused Areas
 
 * Operating systems
 * Windows 10/11 support and troubleshooting
-* Linux systems and shell usage
-* Networking fundamentals (TCP/IP, DNS, DHCP, SMTP)
-* Active Directory and Group Policy fundamentals
+* Linux systems and Bash CLI
+* Networking (TCP/IP, DNS, DHCP, SMTP)
+* Active Directory and Group Policy
+* Microsoft 365 Admin Center
+* Windows Server 2022
+* PowerShell basics
 * Microsoft Endpoint Configuration Manager (SCCM) fundamentals
 * Cybersecurity foundations
 * Technical troubleshooting frameworks
@@ -31,18 +34,24 @@ PowerShell for Sysadmins: Workflow Automation Made Easy - Adam Bertram
 The Practice of System and Network Administration - Thomas Limoncelli, Christina Hogan
 - Chapter 27: Customer Support
 - Chapter 29: Debugging
+- Chapter 30: Fixing Things Once
+- Chapter 31: Documentation
+- Chapter 32: Change Management
+- Chapter 38: Service Monitoring
+- Chapter 50: Time Management
 
 Windows Server Administration Fundamentals - Microsoft Press
+- Chapter 4: Managing Active Directory
+- Chapter 5: Managing Networking
+- Chapter 7: Managing File and Print Services
+- Chapter 14: Performance Tuning
+- Chapter 15: Server Maintenance
 
 How Linux Works: What Every Superuser Should Know - Brian Ward
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
 
 The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
-
-Purpose
-
-This repository reflects disciplined technical development through structured learning, applied labs, and written technical documentation.
 
 Navigation
 
