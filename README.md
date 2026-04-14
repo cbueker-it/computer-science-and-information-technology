@@ -1,6 +1,6 @@
 **Computer Science and Information Technology**: Independent Technical Study
 
-I built this repository to organize my independent technical study across core IT concepts, systems administration, troubleshooting, and applied technical reading. This shows applied learning through notes, structured troubleshooting models, selected readings, lab work, and practical concept development.
+I built this repository to organize my independent technical study; it includes IT concepts, systems administration, troubleshooting, and applied technical reading. My documented studies include my handwritten IT and CLI playbook, readings, flashcards, structured troubleshooting models, extensive lab work, and work for a few clients.
 
 Focused Areas
 
@@ -48,19 +48,19 @@ Windows Server Administration Fundamentals - Microsoft Press
 - Chapter 15: Server Maintenance
 
 How Linux Works: What Every Superuser Should Know - Brian Ward
-- Linux is built from many small tools that each do one job well.
+- Linux is built from many small tools that each do one job very well.
 - Everything in Linux depends on processes, permissions, and files working together.
 - The boot process shows how the system builds itself step by step.
-- Networking in Linux is visible because most services can be inspected directly.
+- Networking in Linux is visible because most services can be inspected directly through logs.
 
 The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
-- IT problems grow when work piles up faster than systems can handle it.
-- Stable IT comes from clear flow, fast feedback, and fewer repeated interruptions.
-- Good teams improve systems by fixing root causes, not only urgent symptoms.
+- IT problems grow when work piles up faster than systems can process and handle it.
+- Stable IT operations come from clear and established workflows, responsive and direct feedback, and fewer repeated interruptions.
+- Good teams improve systems by identifying the root causes, not just urgent symptoms.
 
 The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
 - Great innovation happens when deep thinkers and practical builders work closely together.
-- Strong technical progress comes from patient experimentation, not only quick results.
+- Strong technical progress in the books came from patient experimentation; it did not just surface because of efforts looking to capitlize from only quick results.
 - The best systems are built when research, engineering, and business stay connected.
 
 Navigation
