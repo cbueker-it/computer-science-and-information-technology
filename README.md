@@ -30,6 +30,8 @@ Introduction to Information Technology and Beyond AI - Mark John Lado
 
 Networking for Beginners - Russel Scott
 
+Succeeding in Information Technology: Tips and Strategies To Be An IT Superstar - Michael Leonardich
+
 PowerShell for Sysadmins: Workflow Automation Made Easy - Adam Bertram
 - Chapter 2: Basic PowerShell Concepts
 - Chapter 3: Combining Commands
