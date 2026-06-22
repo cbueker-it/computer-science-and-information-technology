@@ -19,7 +19,6 @@ Focus areas include
 * Microsoft 365 Admin Center
 * Windows Server 2022
 * PowerShell basics
-* Microsoft Endpoint Configuration Manager (SCCM) fundamentals
 * Cybersecurity foundations
 * Technical troubleshooting frameworks
 * Documentation and systems thinking
@@ -39,22 +38,6 @@ PowerShell for Sysadmins: Workflow Automation Made Easy - Adam Bertram
 - Chapter 8: Running Scripts Remotely
 - Chapter 11: Automating Active Directory
 - Chapter 15: Provisioning A Virtual Environment
-
-The Practice of System and Network Administration - Thomas Limoncelli, Christina Hogan
-- Chapter 27: Customer Support
-- Chapter 29: Debugging
-- Chapter 30: Fixing Things Once
-- Chapter 31: Documentation
-- Chapter 32: Change Management
-- Chapter 38: Service Monitoring
-- Chapter 50: Time Management
-
-Windows Server Administration Fundamentals - Microsoft Press
-- Chapter 4: Managing Active Directory
-- Chapter 5: Managing Networking
-- Chapter 7: Managing File and Print Services
-- Chapter 14: Performance Tuning
-- Chapter 15: Server Maintenance
 
 How Linux Works: What Every Superuser Should Know - Brian Ward
 - Linux is built from many small tools that each do one job very well.
