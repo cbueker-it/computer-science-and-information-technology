@@ -51,7 +51,7 @@ The goal is not only to learn technical concepts, but to understand how those co
 **Computer Science and Systems Thinking**
 
 * *The Art of Thinking in Systems* — Steven Schuster
-* *Computer Science Crash Course* — Ian Vatantu
+* *Computer Science Crash Course* — Ian Batantu
 * *The Idea Factory: Bell Labs and the Great Age of American Innovation* — Jon Gertner
 
 **Information Technology and Business Operations**
@@ -62,20 +62,20 @@ The goal is not only to learn technical concepts, but to understand how those co
 
 **Reading Reflections**
 
-**How Linux Works: What Every Superuser Should Know — Brian Ward**
+**How Linux Works: What Every Superuser Should Know**
 
 * Linux is built from many small tools that each do one job very well.
 * Processes, permissions, files, services, and system components work together to create the larger operating system.
 * The boot process demonstrates how Linux builds the running system step by step.
 * Linux networking and services can often be inspected directly through commands, configuration files, and logs.
 
-**The Phoenix Project — Gene Kim, Kevin Behr**
+**The Phoenix Project**
 
 * IT problems grow when work piles up faster than systems and teams can process it.
 * Stable IT operations depend on clear workflows, direct feedback, and reducing repeated interruptions.
 * Strong teams improve systems by identifying root causes instead of repeatedly responding only to urgent symptoms.
 
-**The Idea Factory: Bell Labs and the Great Age of American Innovation — Jon Gertner**
+**The Idea Factory: Bell Labs and the Great Age of American Innovation**
 
 * Great innovation happens when deep thinkers and practical builders work closely together.
 * Strong technical progress often comes through patient experimentation rather than chasing only immediate results.
