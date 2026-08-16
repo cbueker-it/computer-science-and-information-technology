@@ -1,60 +1,92 @@
-**Computer Science and Information Technology**: Independent Technical Study
+**Computer Science and Information Technology**
 
-I built this repository to organize my independent technical study. It includes:
-- IT fundamentals
-- systems administration
-- applied troubleshooting
-- targeted labs
-- selected technical readings.
+**Independent Technical Study**
 
-My documented study includes handwritten IT and command-line notes, flashcards, structured troubleshooting models, lab work, and technical work connected to client systems.
+I built this repository to organize and document my independent technical study in information technology, systems administration, networking, operating systems, and infrastructure support. My study combines technical reading with hands-on labs, command-line practice, structured troubleshooting, documentation, and practical work with real and simulated systems.
 
-Focus areas include
+The goal is not only to learn technical concepts, but to understand how those concepts are applied when installing, administering, troubleshooting, securing, maintaining, and improving business technology.
 
-* Operating systems
+**Study Methods**
+
+* Hands-on IT and systems administration labs
+* Command-line notes and technical reference material
+* Flashcards and structured review
+* Troubleshooting models and documented case studies
+* Technical reading and professional development
+* Practical work connected to client and business systems
+
+**Focus Areas**
+
+* Operating systems and system lifecycle administration
 * Windows 10/11 support and troubleshooting
-* Linux systems and Bash CLI
-* Networking (TCP/IP, DNS, DHCP, SMTP)
+* Linux administration and Bash CLI
+* TCP/IP, DNS, DHCP, SMTP, and network troubleshooting
 * Active Directory and Group Policy
-* Microsoft 365 Admin Center
+* Microsoft 365 and Microsoft Intune administration
 * Windows Server 2022
-* PowerShell basics
+* PowerShell administration and automation
 * Cybersecurity foundations
+* Infrastructure monitoring and incident response
 * Technical troubleshooting frameworks
 * Documentation and systems thinking
 
 **Selected Readings**
 
-Introduction to Information Technology and Beyond AI - Mark John Lado
+**Systems Administration and Linux**
 
-Networking for Beginners - Russel Scott
+* *How Linux Works: What Every Superuser Should Know* — Brian Ward
+* *Linux for Beginners* — Jason Cannon
+* *PowerShell for Sysadmins: Workflow Automation Made Easy* — Adam Bertram
 
-Succeeding in Information Technology: Tips and Strategies To Be An IT Superstar - Michael Leonardich
+**Networking**
 
-PowerShell for Sysadmins: Workflow Automation Made Easy - Adam Bertram
-- Chapter 2: Basic PowerShell Concepts
-- Chapter 3: Combining Commands
-- Chapter 6: Writing Functions
-- Chapter 8: Running Scripts Remotely
-- Chapter 11: Automating Active Directory
-- Chapter 15: Provisioning A Virtual Environment
+* *Networking for Beginners* — Russel Scott
+* *Computer Networking* — Quinn Kaiser
+* *CompTIA Network+ Last-Minute Review Guide* — Andrew Ramdayal
 
-How Linux Works: What Every Superuser Should Know - Brian Ward
-- Linux is built from many small tools that each do one job very well.
-- Everything in Linux depends on processes, permissions, and files working together.
-- The boot process shows how the system builds itself step by step.
-- Networking in Linux is visible because most services can be inspected directly through logs.
+**Cybersecurity**
 
-The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr
-- IT problems grow when work piles up faster than systems can process and handle it.
-- Stable IT operations usually depend on clear workflows, direct feedback, and reducing repeated interruptions.
-- Good teams improve systems by identifying the root causes, not just urgent symptoms.
+* *CompTIA Security+ SY0-701 Study Guide* — Sean Walker
 
-The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
-- Great innovation happens when deep thinkers and practical builders work closely together.
-- Strong technical progress in the book came through patient experimentation. It did not emerge from chasing quick results alone.
-- The best systems are built when research, engineering, and business stay connected.
+**Computer Science and Systems Thinking**
 
-Navigation
+* *The Art of Thinking in Systems* — Steven Schuster
+* *Computer Science Crash Course* — Ian Vatantu
+* *The Idea Factory: Bell Labs and the Great Age of American Innovation* — Jon Gertner
+
+**Information Technology and Business Operations**
+
+* *Introduction to Information Technology and Beyond AI* — Mark John Lado
+* *Succeeding in Information Technology: Tips and Strategies To Be An IT Superstar* — Michael Leonardich
+* *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win* — Gene Kim, Kevin Behr
+
+**Reading Reflections**
+
+**How Linux Works: What Every Superuser Should Know — Brian Ward**
+
+* Linux is built from many small tools that each do one job very well.
+* Processes, permissions, files, services, and system components work together to create the larger operating system.
+* The boot process demonstrates how Linux builds the running system step by step.
+* Linux networking and services can often be inspected directly through commands, configuration files, and logs.
+
+**The Phoenix Project — Gene Kim, Kevin Behr**
+
+* IT problems grow when work piles up faster than systems and teams can process it.
+* Stable IT operations depend on clear workflows, direct feedback, and reducing repeated interruptions.
+* Strong teams improve systems by identifying root causes instead of repeatedly responding only to urgent symptoms.
+
+**The Idea Factory: Bell Labs and the Great Age of American Innovation — Jon Gertner**
+
+* Great innovation happens when deep thinkers and practical builders work closely together.
+* Strong technical progress often comes through patient experimentation rather than chasing only immediate results.
+* The strongest systems emerge when research, engineering, practical application, and business needs remain connected.
+
+**Summary**
+
+This repository documents the technical knowledge I am developing alongside my professional experience and hands-on lab work. The subjects connect around a common theme: understanding how operating systems, networks, infrastructure, security, and business technology work together.
+
+As my knowledge develops, I continue to apply what I study through labs, troubleshooting exercises, technical documentation, and real-world systems administration concepts. The goal is to build knowledge that can be used practically to support reliable systems, effective troubleshooting, and stable business operations.
+
+**Navigation**
 
 [`Back to GitHub Profile`](https://www.github.com/cbueker-it)
